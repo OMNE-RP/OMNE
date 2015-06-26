@@ -108,7 +108,7 @@ As said, skills in OMNE are the primary way in which a character interacts with 
 ## How do I use skills?
 Alright, so this is the part where OMNE starts to get a little dense. and what better way to deal with that than flowcharts? The image below describes how you use skills, which is pretty massive considering the universality of OMNE skills. Here’s the overview: if your character wants to attempt something, they will make a skill check. That check will either be posed against a GM-determined Difficulty Check (DC), or an opposing skill check made by a competitor. This mechanic is used any time your character needs to actively interact, and will not change. Ready for that flowchart? No? Cool. Here you go.
 
-![Character Interaction Flowchart](./Character-Interaction.png)
+![Activity Flowchart](https://raw.githubusercontent.com/OMNE-RP/OMNE/master/md/img/Activity.png)
 
 <small>
 So, that was probably miserably unclear. Sorry. As this document gets view by people who are maybe less technically inclined, this section will be used for further explanation. In the mean time, you totally (should) know how do everything in OMNE!
@@ -150,7 +150,7 @@ To do this, calculate the minimum score you can get in your attempt (`STAT + SKI
 
 And so as you succeed at moderate—hard tasks, you are exercising that skill, and therefore getting better. And as you get better at one stat-based skill, you get better at that overall stat. It’s all here in this flowchart.
 
-![Skill Completion Flowchart](./Skill-Completion.png)
+![Handle Results Flowchart](https://raw.githubusercontent.com/OMNE-RP/OMNE/master//md/img/Handle-Results.png)
 
 ## Is there anything else I should know before playing?
 Yep, there are a few things. These things are still pretty fluid, and will find a better home than “Miscellaneous” by the final version of the booklet. Nevertheless, here they are:
