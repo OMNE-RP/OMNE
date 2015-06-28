@@ -115,46 +115,55 @@
 | Weak          | STRN: `-1`  |
 | Puny          | STRN: `-3`  |
 | Strenghtless  | STRN: `N/A` |
+|               |             |
 | Exact         | DEXT: `+3`  |
 | Accurate      | DEXT: `+1`  |
 | Imprecise     | DEXT: `-1`  |
 | Clumsy        | DEXT: `-3`  |
 | Nonprehinsile | DEXT: `N/A` |
+|               |             |
 | Graceful      | AGIL: `+3`  |
 | Nimble        | AGIL: `+1`  |
 | Uncordinated  | AGIL: `-1`  |
 | Bumbling      | AGIL: `-3`  |
 | Static        | AGIL: `N/A` |
+|               |             |
 | Hearty        | STAM: `+3`  |
 | Tough         | STAM: `+1`  |
 | Feeble        | STAM: `-1`  |
 | Frail         | STAM: `-3`  |
 | Incorporeal   | STAM: `N/A` |
+|               |             |
 | Obvious       | VSBL: `+3`  |
 | Conspicuous   | VSBL: `+1`  |
 | Unremarkable  | VSBL: `-1`  |
 | Imperceptible | VSBL: `-3`  |
 | Invisible     | VSBL: `N/A` |
+|               |             |
 | Brilliant     | INTL: `+3`  |
 | Clever        | INTL: `+1`  |
 | Simple        | INTL: `-1`  |
 | Idiotic       | INTL: `-3`  |
 | Mindless      | INTL: `N/A` |
+|               |             |
 | Visionary     | CRTV: `+3`  |
 | Inventive     | CRTV: `+1`  |
 | Untalented    | CRTV: `-1`  |
 | Insipid       | CRTV: `-3`  |
 | Predetermined | CRTV: `N/A` |
+|               |             |
 | Suave         | CHAR: `+3`  |
 | Charming      | CHAR: `+1`  |
 | Crass         | CHAR: `-1`  |
 | Detestable    | CHAR: `-3`  |
 | Unrelatable   | CHAR: `N/A` |
+|               |             |
 | Obssesed      | ZEAL: `+3`  |
 | Passionate    | ZEAL: `+1`  |
 | Passive       | ZEAL: `-1`  |
 | Apathetic     | ZEAL: `-3`  |
 | Stoic         | ZEAL: `N/A` |
+|               |             |
 | Observant     | PRCP: `+3`  |
 | Alert         | PRCP: `+1`  |
 | Inattentive   | PRCP: `-1`  |
