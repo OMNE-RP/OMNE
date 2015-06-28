@@ -1,15 +1,15 @@
 ## Sizes
-| Tag     | Effect                           |
-|:--------|:---------------------------------|
-| Fine    | STRN, STAM, VSBL: `-4` AGL: `+4` |
-| Minute  | STRN, STAM, VSBL: `-3` AGL: `+3` |
-| Tiny    | STRN, STAM, VSBL: `-2` AGL: `+2` |
-| Small   | STRN, STAM, VSBL: `-1` AGL: `+1` |
-| Medium  | STATS: `+0`                      |
-| Large   | STRN, STAM, VSBL: `+1` AGL: `-1` |
-| Huge    | STRN, STAM, VSBL: `+2` AGL: `-2` |
-| Massive | STRN, STAM, VSBL: `+3` AGL: `-3` |
-| Vast    | STRN, STAM, VSBL: `+4` AGL: `-4` |
+| Tag     | Effect                            |
+|:--------|:----------------------------------|
+| Fine    | STRN, STAM, VSBL: `-4` AGIL: `+4` |
+| Minute  | STRN, STAM, VSBL: `-3` AGIL: `+3` |
+| Tiny    | STRN, STAM, VSBL: `-2` AGIL: `+2` |
+| Small   | STRN, STAM, VSBL: `-1` AGIL: `+1` |
+| Medium  | STATS: `+0`                       |
+| Large   | STRN, STAM, VSBL: `+1` AGIL: `-1` |
+| Huge    | STRN, STAM, VSBL: `+2` AGIL: `-2` |
+| Massive | STRN, STAM, VSBL: `+3` AGIL: `-3` |
+| Vast    | STRN, STAM, VSBL: `+4` AGIL: `-4` |
 
 
 ## Size Modifiers
@@ -34,6 +34,7 @@
 |                   | Massive  | DMG: `-(2d8 + 4)`          |
 |                   | Vast     | DMG: `-(3d10 + 10)`        |
 
+
 ## Characteristics
 | Tag            | Description                                 |
 |:---------------|:--------------------------------------------|
@@ -50,6 +51,7 @@
 | Skill Reducing | Can reduce an entity's skill.               |
 | Stat Boosting  | Can boost an entity's stat.                 |
 | Stat Reducing  | Can reduce an entity's stat.                |
+
 
 ## Modifiers
 | Tag         | With Tag       | Effect                     |
@@ -103,3 +105,58 @@
 |             | Skill Reducing | Skill: `-7`                |
 |             | Stat Boosting  | Skill: `+7`                |
 |             | Stat Reducing  | Skill: `-7`                |
+
+
+## Stat Modifiers
+| Tag           | Effect      |
+|:--------------|:------------|
+| Mighty        | STRN: `+3`  |
+| Strong        | STRN: `+1`  |
+| Weak          | STRN: `-1`  |
+| Puny          | STRN: `-3`  |
+| Strenghtless  | STRN: `N/A` |
+| Exact         | DEXT: `+3`  |
+| Accurate      | DEXT: `+1`  |
+| Imprecise     | DEXT: `-1`  |
+| Clumsy        | DEXT: `-3`  |
+| Nonprehinsile | DEXT: `N/A` |
+| Graceful      | AGIL: `+3`  |
+| Nimble        | AGIL: `+1`  |
+| Uncordinated  | AGIL: `-1`  |
+| Bumbling      | AGIL: `-3`  |
+| Static        | AGIL: `N/A` |
+| Hearty        | STAM: `+3`  |
+| Tough         | STAM: `+1`  |
+| Feeble        | STAM: `-1`  |
+| Frail         | STAM: `-3`  |
+| Incorporeal   | STAM: `N/A` |
+| Obvious       | VSBL: `+3`  |
+| Conspicuous   | VSBL: `+1`  |
+| Unremarkable  | VSBL: `-1`  |
+| Imperceptible | VSBL: `-3`  |
+| Invisible     | VSBL: `N/A` |
+| Brilliant     | INTL: `+3`  |
+| Clever        | INTL: `+1`  |
+| Simple        | INTL: `-1`  |
+| Idiotic       | INTL: `-3`  |
+| Mindless      | INTL: `N/A` |
+| Visionary     | CRTV: `+3`  |
+| Inventive     | CRTV: `+1`  |
+| Untalented    | CRTV: `-1`  |
+| Insipid       | CRTV: `-3`  |
+| Predetermined | CRTV: `N/A` |
+| Suave         | CHAR: `+3`  |
+| Charming      | CHAR: `+1`  |
+| Crass         | CHAR: `-1`  |
+| Detestable    | CHAR: `-3`  |
+| Unrelatable   | CHAR: `N/A` |
+| Obssesed      | ZEAL: `+3`  |
+| Passionate    | ZEAL: `+1`  |
+| Passive       | ZEAL: `-1`  |
+| Apathetic     | ZEAL: `-3`  |
+| Stoic         | ZEAL: `N/A` |
+| Observant     | PRCP: `+3`  |
+| Alert         | PRCP: `+1`  |
+| Inattentive   | PRCP: `-1`  |
+| Oblivious     | PRCP: `-3`  |
+| Insensate     | PRCP: `N/A` |
