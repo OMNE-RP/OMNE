@@ -1,3 +1,11 @@
+# GM Guide <a name="gm_guide"></a>
+
+## Building Worlds <a name="building_worlds"></a>
+## Creating Creatures <a name="creating_creatures"></a>
+## Instantiating Items <a name="instantiating_items"></a>
+## Defining Rituals <a name="defining_rituals"></a>
+## Creating and using Tags <a name="creating_and_using_tags"></a>
+
 ## Sizes
 | Tag     | Effect                            |
 |:--------|:----------------------------------|

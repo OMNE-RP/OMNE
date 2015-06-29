@@ -13,22 +13,13 @@ A few simple things that you’re bound to have if you play tabletop RPGs.
 - Character sheet
 - GM-provided resources
 
-Then, if you are planning on Game Mastering (GM’ing) your OMNE experience, stick around. The next few bits are important for coming up with your world, and making it fit the OMNE purview. If not, go ahead and jump to “How do I make a character?”, and start thinking about what you want to do in your GM’s world.
-
-# GM Guide <a name="gm_guide"></a>
-
-## Building Worlds <a name="building_worlds"></a>
-## Creating Creatures <a name="creating_creatures"></a>
-## Instantiating Items <a name="instantiating_items"></a>
-## Defining Rituals <a name="defining_rituals"></a>
-## Creating and using Tags <a name="creating_and_using_tags"></a>
-
+Then, if you are planning on Game Mastering (GM’ing) your OMNE experience, head over to the [GM guide](./GM-Guide.md). It's important for coming up with your world, and making it fit the OMNE purview. If not, go ahead to “How do I make a character?”, and start thinking about what you want to do in your GM’s world.
 
 
 # Basics <a name="basics"></a>
 
 ## How do I make a character? <a name="stats"></a>
-If you took the time to read [Creating Creatures](#creating_creatures), some of this intro might be redundant, but a little repetition never hurt anyone, right? So you want to know how to make a character; but before you can do that you need to know what a character consists of. In OMNE, like most other table-top systems, a character is addressed as a sum of several attributes (called “stats” in OMNE) and abilities (called “skills” in OMNE). The stats are a method of addressing the physical and mental capabilities inherent to a character, while the skills are a measurement of a character’s practiced capabilities.
+If you took the time to read [Creating Creatures](./GM-Guide.md#creating_creatures), some of this intro might be redundant, but a little repetition never hurt anyone, right? So you want to know how to make a character; but before you can do that you need to know what a character consists of. In OMNE, like most other table-top systems, a character is addressed as a sum of several attributes (called “stats” in OMNE) and abilities (called “skills” in OMNE). The stats are a method of addressing the physical and mental capabilities inherent to a character, while the skills are a measurement of a character’s practiced capabilities.
 
 In OMNE, the list of stats (known as an 8.2 stat system<sup>[1](#1_stat_system)</sup>) breaks down like this:
 
@@ -94,7 +85,7 @@ Although the final say always comes down to player agreement, OMNE does not prov
 OMNE does not directly handle classes (opting instead for an “anyone-can-do- anything” philosophy), however classes can easily be built on top of OMNE by pre- determining a set of skills relevant to each class (as well as any bonuses, limitations, and weapon/armor capabilities seen relevant by the GM).
 
 ## Is there magic in OMNE?
-That depends on your GM’s world. If you managed to drag yourself through [Defining Rituals](#defining_rituals), your’e already aware that OMNE has a loose, framework structure for supporting all forms of Magic, Spirituality, Science, etc. (basically anything less concrete than swords and stones). Most likely, if your world is one that takes advantage of these rituals, your character will make use of it by practicing skill-based invocations of rituals. For example, in a classic fantasy world, a character might have the skill “Magic Missile”, which fires several beams of arcane energy, doing damage. This skill would be used identically to any other skill, and it would be unlikely for you to have to rely on Magic Points, Spells per Day, or any other pool-based system in order to utilize a force. Rituals, like everything else in OMNE, are treated as skills.
+That depends on your GM’s world. If you managed to drag yourself through [Defining Rituals](./GM-Guide.md#defining_rituals), your’e already aware that OMNE has a loose, framework structure for supporting all forms of Magic, Spirituality, Science, etc. (basically anything less concrete than swords and stones). Most likely, if your world is one that takes advantage of these rituals, your character will make use of it by practicing skill-based invocations of rituals. For example, in a classic fantasy world, a character might have the skill “Magic Missile”, which fires several beams of arcane energy, doing damage. This skill would be used identically to any other skill, and it would be unlikely for you to have to rely on Magic Points, Spells per Day, or any other pool-based system in order to utilize a force. Rituals, like everything else in OMNE, are treated as skills.
 
 ## Does my character have a “to-hit”? Or an Armor Class? Or any perks?
 Nope. As previously stated, most everything in OMNE is treaded as a skill. Ergo, your “to-hit” would just be something like a Swordplay check. Your Armor Class would be something like a Block or Dodge check. And if you’re looking for a perk that gives you berserker-like rage, you’d simply begin practicing Rage and Brawling skills.
