@@ -6,7 +6,7 @@
 ## Defining Rituals <a name="defining_rituals"></a>
 ## Creating and using Tags <a name="creating_and_using_tags"></a>
 
-## Sizes
+### Sizes
 | Tag     | Effect                            |
 |:--------|:----------------------------------|
 | Fine    | STRN, STAM, VSBL: `-4` AGIL: `+4` |
@@ -20,7 +20,7 @@
 | Vast    | STRN, STAM, VSBL: `+4` AGIL: `-4` |
 
 
-## Size Modifiers
+### Size Modifiers
 | Tag               | With Tag | Effect                     |
 |:------------------|:---------|:---------------------------|
 | Naturally Armed   | Fine     | DMG: `+0`                  |
@@ -43,7 +43,7 @@
 |                   | Vast     | DMG: `-(3d10 + 10)`        |
 
 
-## Characteristics
+### Characteristics
 | Tag            | Description                                 |
 |:---------------|:--------------------------------------------|
 | Consumable     | Can be consumed.                            |
@@ -61,7 +61,7 @@
 | Stat Reducing  | Can reduce an entity's stat.                |
 
 
-## Modifiers
+### Modifiers
 | Tag         | With Tag       | Effect                     |
 |:------------|:---------------|:---------------------------|
 | Petty       | Damaging       | DMG: `1`                   |
@@ -115,7 +115,7 @@
 |             | Stat Reducing  | Skill: `-7`                |
 
 
-## Stat Modifiers
+### Stat Modifiers
 | Tag           | Effect      |
 |:--------------|:------------|
 | Mighty        | STRN: `+3`  |
