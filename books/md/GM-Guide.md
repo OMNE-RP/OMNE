@@ -1,10 +1,30 @@
 # GM Guide <a name="gm_guide"></a>
 
 ## Building Worlds <a name="building_worlds"></a>
+- What are worlds?
+- Creates, items, rituals
+
 ## Creating Creatures <a name="creating_creatures"></a>
+- Tags and characteristics
+- Innate skills
+- Generating enemies
+- Caveat: do whatever
+
 ## Instantiating Items <a name="instantiating_items"></a>
+- Tags and characteristics
+- Special abilities
+- Assigning value
+- Generating loot
+
 ## Defining Rituals <a name="defining_rituals"></a>
+- Rituals as a concept
+- Tags and characteristics
+- Pairing to skills
+- Energy systems
+
 ## Creating and using Tags <a name="creating_and_using_tags"></a>
+- Creating tags
+- Existing tags
 
 ### Sizes
 | Tag     | Effect                            |
