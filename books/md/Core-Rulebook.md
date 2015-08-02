@@ -159,12 +159,12 @@ To do this, calculate the minimum score you can get in your attempt (`STAT + SKI
 >
 > GM: “You succeed, the lock clicks open revealing...”
 >
-> > *The DC was `16`. Your minimum score was `DEXT + Lockpicking` (`3`).*
+> > *The DC was `13`. Your minimum score was `DEXT + Lockpicking + 1 for Locksmithing` (`4`).*
 >
-> > *`16 - 3 = 13`. `12 < 13 ≤ 20`. This lock was of hard difficulty.*
+> > *`13 - 4 = 9`. `1 < 9 ≤ 12`. This lock was of moderate difficulty.*
 >
 >
-> GM: “You get 2 experience points in Lockpicking.”
+> GM: “You get 1 experience point in Lockpicking.”
 
 As you succeed at moderate or harder tasks, you are exercising that skill, and therefore getting better. And as you get better at one stat-based skill, you get better at that overall stat. It’s all here in this flowchart.
 
