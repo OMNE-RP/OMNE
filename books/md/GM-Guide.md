@@ -2,17 +2,17 @@
 
 For the sake of brevity, and in the name of this being the very first version of this guide, we're going to make a few assumptions.
 
-Firstly, that you've GM'd a game before, in any system. This is a big one, and if you haven't, you might want to try cutting your teeth on a more fleshed out system such as [D&D 4e](http://dnd4.wikia.com/wiki/D%26D4_Wiki) or [Rissus](http://www222.pair.com/sjohn/risus.htm). Or just dive right into OMNE; we're not your real mom.
+First, that you've run a game before, in any system. This is a big one, and if you haven't, you might want to cut your teeth on a more fleshed out system such as [D&D 4e](http://dnd4.wikia.com/wiki/D%26D4_Wiki) or [Risus](http://www222.pair.com/sjohn/risus.htm). Or just dive right into OMNE; we're not your real mom.
 
-Secondly, that you have a prediliction toward creating fantasy worlds. This is pretty important because nearly all of the content enclosed in this guide is for the creation of the world in which your game will be set. In OMNE, unlike D&D, world-building often a critical part of being a GM.
+Second, that you have a prediliction toward creating fantasy worlds. This is pretty important because nearly all of the content enclosed in this guide is for the creation of the world in which your game will be set. In OMNE, unlike D&D, world-building often a critical part of being a GM.
 
-Thirdly, that you can read. Otherwise, this is probably unhelpful.
+Third, that you can read. Otherwise, this is probably unhelpful.
 
-Fourthly, and finally, that you've read at least the intro of the [Core Rulebook](../Core-Rulebook.md), which should give you some context into the OMNE system.
+Fourth and finally, that you've read at least the intro of the [Core Rulebook](../Core-Rulebook.md), which gives you a basic tour of the OMNE system.
 
 ## Building Worlds <a name="building_worlds"></a>
 - What are worlds?
-- Creates, items, rituals
+- Creatures, items, rituals
 
 ## Creating Creatures <a name="creating_creatures"></a>
 - Tags and characteristics
@@ -79,7 +79,7 @@ Fourthly, and finally, that you've read at least the intro of the [Core Rulebook
 | Consumable     | Can be consumed.                            |
 | Damaging       | Can be used to deal damage.                 |
 | Healing        | Can be used to restore health.              |
-| Long Lasting   | Has a duration.                             |
+| Long-lasting   | Has a duration.                             |
 | Non-physical   | Cannot be affected by physics.              |
 | Physical       | Affected by physics.                        |
 | Protecting     | Can reduce damage from `Physical` entities. |
@@ -152,17 +152,17 @@ Fourthly, and finally, that you've read at least the intro of the [Core Rulebook
 | Strong        | STRN: `+1`  |
 | Weak          | STRN: `-1`  |
 | Puny          | STRN: `-3`  |
-| Strenghtless  | STRN: `N/A` |
+| Strengthless  | STRN: `N/A` |
 |               |             |
 | Exact         | DEXT: `+3`  |
 | Accurate      | DEXT: `+1`  |
 | Imprecise     | DEXT: `-1`  |
 | Clumsy        | DEXT: `-3`  |
-| Nonprehinsile | DEXT: `N/A` |
+| Non-prehensile| DEXT: `N/A` |
 |               |             |
 | Graceful      | AGIL: `+3`  |
 | Nimble        | AGIL: `+1`  |
-| Uncordinated  | AGIL: `-1`  |
+| Uncoordinated | AGIL: `-1`  |
 | Bumbling      | AGIL: `-3`  |
 | Static        | AGIL: `N/A` |
 |               |             |
