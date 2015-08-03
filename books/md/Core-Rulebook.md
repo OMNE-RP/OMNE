@@ -28,8 +28,6 @@ If you're playing, but you're not planning to run a game right now, move on to *
 
 ## How do I make a character? <a name="stats"></a>
 
-If you took the time to read [Creating Creatures](./GM-Guide.md#creating_creatures) in the GM Guide, this intro may seem redundant, but a little repetition never hurt anyone, right?
-
 So you want to know how to make a character; but before you can do that you need to know what a character consists of. In OMNE, like most other table-top systems, a character is addressed as a sum of several attributes (called “stats” in OMNE) and abilities (called “skills” in OMNE). The stats are a method of addressing the physical and mental capabilities inherent to a character, while the skills are a measurement of a character’s practiced capabilities.
 
 In OMNE, the list of stats (known as an 8.2 stat system<sup>[1](#1_stat_system)</sup>) breaks down like this:

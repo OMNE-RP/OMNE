@@ -17,6 +17,9 @@ Worlds, in OMNE, represent the environment in which a game may be played. A worl
 
 
 ## Creating Creatures <a name="creating_creatures"></a>
+
+Creatures, in OMNE, can be thought of as a combination of "enemy types" and "races" from other RPGs. This means that Creatures represent the physical form, and to some extend, abilities, that belong to each individual instance of that Creature. For example, all [red pandas](https://en.wikipedia.org/wiki/Red_panda) share similar dexterity and intelligence levels. Likewise, so do all [Squids](http://splatoon.wikia.com/wiki/Inkling). In OMNE, its the Creature that most prominently defines predisposition. OMNE also makes no technical distinction between "playable" and "unplayable" Creatures. As GM, it's up to you to define which are acceptable to play, and which are relegated to cannon fodder.
+
 - Tags and characteristics
 - Innate skills
 - Generating enemies
