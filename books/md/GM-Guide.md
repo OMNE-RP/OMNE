@@ -11,8 +11,10 @@ Third, that you can read. Otherwise, this is probably unhelpful.
 Fourth and finally, that you've read at least the intro of the [Core Rulebook](../Core-Rulebook.md), which gives you a basic tour of the OMNE system.
 
 ## Building Worlds <a name="building_worlds"></a>
-- What are worlds?
-- Creatures, items, rituals
+Worlds, in OMNE, represent the environment in which a game may be played. A world includes all of the content necessary for gameplay, including geography, municipalities, noteworthy individual, lore, history, cuisine, bowling leagues, etc. As the GM, the level to which this content is explicitly defined or improvised is entirely up to you. You can create Tolkienesque tomes or make everything up as you go along. Chances are it will be a mixture of the two, but however you approach this, there are at least three categories of entities that need documented: Creatures, Items, and Rituals.
+
+[Creatures](#creating_creatures), [Items](#instantiating_items), and [Rituals](#defining_rituals) are all needed for your players to be able to create and play their characters. In fact,  they may very well be [waiting on you to finish reading this](../Core-Rulebook.md#gm_creatures), so you might want to move it along.
+
 
 ## Creating Creatures <a name="creating_creatures"></a>
 - Tags and characteristics

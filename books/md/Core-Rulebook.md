@@ -69,7 +69,7 @@ Right, right. Now that you understand what a character is, you can start making 
 
 For each individual stat (10 of them) you’ll need to roll `1d4 - 1d4`. That means that your starting level for each stat will be somewhere between `-3` and `3`. For example, if you roll a 4 and a 2, you would have a score of 4 - 2 = 2. Or you might roll a 1 and a 2, for a score of 1 - 2 = -1.
 
-Once you have 10 of these numbers, go ahead and assign each one to a stat (and if your GM has finally gotten around to giving you some races, pick one and apply the necessary modifiers). Assuming you’re playing, say, a Human, your stats might now look something like this:
+Once you have 10 of these numbers, go ahead and assign each one to a stat (and if your GM has finally gotten around to giving you some races, pick one and apply the necessary modifiers)<a name="gm_creatures"></a>. Assuming you’re playing, say, a Human, your stats might now look something like this:
 
 |   PHYS   | Level |   MNTL   | Level |
 |:--------:|------:|:--------:|------:|
