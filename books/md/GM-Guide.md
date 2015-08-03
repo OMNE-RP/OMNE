@@ -4,7 +4,7 @@ For the sake of brevity, and in the name of this being the very first version of
 
 First, that you've run a game before, in any system. This is a big one, and if you haven't, you might want to cut your teeth on a more fleshed out system such as [D&D 4e](http://dnd4.wikia.com/wiki/D%26D4_Wiki) or [Risus](http://www222.pair.com/sjohn/risus.htm). Or just dive right into OMNE; we're not your real mom.
 
-Second, that you have a prediliction toward creating fantasy worlds. This is pretty important because nearly all of the content enclosed in this guide is for the creation of the world in which your game will be set. In OMNE, unlike D&D, world-building often a critical part of being a GM.
+Second, that you have a predilection toward creating fantasy worlds. This is pretty important because nearly all of the content enclosed in this guide is for the creation of the world in which your game will be set. In OMNE, unlike D&D, world-building often a critical part of being a GM.
 
 Third, that you can read. Otherwise, this is probably unhelpful.
 
