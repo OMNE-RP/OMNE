@@ -26,13 +26,22 @@ Creatures, in OMNE, can be thought of as a combination of "enemy types" and "rac
 - Caveat: do whatever
 
 ## Instantiating Items <a name="instantiating_items"></a>
+
+From meals to torches, adventuring gear is essential to your player's success. What? No we didn't just pull this quote directly from the [D&D4 Wiki page on items](http://dnd4.wikia.com/wiki/Items), why do you ask?
+
+Seriously though, items are pretty straightforward. Is it a tool you can use? If so, it's an item. And items, by way of associated tags, have mechanical capabilities.
+
 - Tags and characteristics
 - Special abilities
 - Assigning value
 - Generating loot
 
 ## Defining Rituals <a name="defining_rituals"></a>
-- Rituals as a concept
+
+Rituals, unlike Items, are far more incorporeal. For example, many fantasy-oriented RPG worlds have some forms of arcane and divine magic. There's a [popular sci-fi universe](http://masseffect.wikia.com/wiki/Biotics) that has a "magic" system based on element exposure. Practical vodou rituals would also be considered part of a world's Rituals.
+
+Rituals may have associated skills at which players can improve, or they may simply function like a automatic weapon, causing their effect without substantial intervention from the performer.
+
 - Tags and characteristics
 - Pairing to skills
 - Energy systems
